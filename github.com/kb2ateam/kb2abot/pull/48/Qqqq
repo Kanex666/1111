@@ -1,0 +1,7 @@
+echo "# 1111" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git nhánh -M https / github.com/kb2ateam/ kb2abot/ pull/48 
+git remote add origin https: // github.com/Kanex666/1111.git
+ git push -u origin https / github.com / kb2ateam / kb2abot / pull / 48
